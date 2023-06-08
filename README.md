@@ -1,2 +1,2 @@
 # registration-page
-standard template
+This project is a simple registration page. 
